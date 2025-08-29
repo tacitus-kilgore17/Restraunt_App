@@ -4,9 +4,14 @@ A simple yet powerful restaurant ordering system that lets you order food just l
 
 ## What it does
 
-Ever been to a restaurant and wished ordering was simpler? This app solves that. You just press 2-3 numbers (like choosing from an index), and boom - you've got your order ready.
+Ever been to a restaurant and wished ordering was simpler? well this app solves that.... all u have to do ...just press 2-3 numbers (like choosing from an index), and boom - you've got your order ready.
 
-The coolest part? With just 3 buttons, you can create **128 different burger combinations**. Yeah, seriously!
+The coolest part? With just 3 buttons, you can create 
+
+_______________________________________128 different burger combinations_______________________
+
+Yeah, this is true
+and it's just about Burger... as I will introduce more dishes it may cross 1000+ combinations by just 7-8 buttons 
 
 Features :- 
 Super easy ordering - just use numbers to navigate the menu
